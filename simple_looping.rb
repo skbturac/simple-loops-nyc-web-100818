@@ -16,6 +16,8 @@ def loop_iterator(number_of_times)
     
     puts phrase
     
+    number_of_times += 1
+    
   
 end
 
